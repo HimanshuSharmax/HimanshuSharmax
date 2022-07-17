@@ -20,5 +20,5 @@
 
 <p align="middle">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshusharmax&show_icons=true&theme=highcontrast&title_color=fba037&locale=en&layout=compact" alt="himanshusharmax" />
-<img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusharmax&theme=highcontrast" alt="himanshusharmax" />
+<img  align="right" width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusharmax&theme=highcontrast" alt="himanshusharmax" />
 </p>
