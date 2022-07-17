@@ -1,4 +1,6 @@
-![banner](https://user-images.githubusercontent.com/86725419/179393444-9e12ec56-0990-439d-9a30-5f109c8f0a6f.jpg)
+![Futuristic Banner ro](https://user-images.githubusercontent.com/86725419/179398750-a20e5fc3-f680-4c85-92f8-e7825ee0f7d9.png)
+
+
 
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A Passionate Software Developer!<br>I am always ready to try and learn new things that would help to improve my skills for further growth.</h3>
