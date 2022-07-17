@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A Passionate Software Developer!<br>I am always ready to try and learn new things which will help me to improve my skills to move forward.</h3>
 <br>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 
 - 🔭 I’m currently studying **Computer Science Engineering**
@@ -24,5 +24,5 @@
 
 <p align="middle">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshusharmax&show_icons=true&theme=highcontrast&title_color=fba037&locale=en&layout=compact" alt="himanshusharmax" />
-<img  align="right" width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusharmax&theme=highcontrast" alt="himanshusharmax" />
+<img  align="right" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusharmax&theme=highcontrast" alt="himanshusharmax" />
 </p>
