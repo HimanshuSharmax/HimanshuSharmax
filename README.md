@@ -4,8 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A Passionate Software Developer!<br>I am always ready to try and learn new things which will help me to improve my skills to move forward.</h3>
+
+<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 <br>
-<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 
 - 🔭 I’m currently studying **Computer Science Engineering**
