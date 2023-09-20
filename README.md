@@ -9,7 +9,8 @@
 <br>
 
 
-- 🔭 I’m currently studying **Computer Science Engineering**
+- 🔭 I hold a degree **Computer Science Engineering**, which is a significant achievement in my educational background.
+
 
 - 📫 How to reach me **ihimanshusharmax@gmail.com**
 
