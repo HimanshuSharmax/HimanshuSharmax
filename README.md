@@ -2,7 +2,8 @@
 
 
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=500&size=30&duration=3000&pause=1000&color=EBE40C&center=true&random=false&width=435&lines=Hello+There!%F0%9F%91%8B+;I'm+Himanshu+Sharma!" alt="Typing SVG" /></a>
+ 
+ <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=30&duration=3000&pause=1000&color=EBB502F7&center=true&random=false&width=435&lines=Hello+There!+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;I'm+Himanshu+Sharma!" alt="Typing SVG" />
 </h1>
 
 
@@ -43,5 +44,5 @@
 
 
 <p align="center">
-<img align="left" height="220" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshusharmax&show_icons=true&theme=highcontrast&title_color=07deed&hide_border=true&locale=en&layout=compact" alt="himanshusharmax" />
+<img align="center" height="220" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshusharmax&show_icons=true&theme=highcontrast&title_color=07deed&hide_border=true&locale=en&layout=compact" alt="himanshusharmax" />
 </p>
