@@ -2,11 +2,15 @@
 
 
 
-<h1 align="center">Hi 👋, I'm HIMANSHU SHARMA</h1>
+<h1 align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Himanshu+Sharma!" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">A Passionate Software Developer!<br>I am always ready to try and learn new things which will help me to improve my skills to move forward.
 <br>I am always looking to learn new things and expand my skill set, and GitHub is a great platform for me to showcase my work and collaborate with others.
 </h3>
 <br>
+
 
 
 - 🔭 I hold a degree **Computer Science Engineering**, which is a significant achievement in my educational background.
