@@ -1,9 +1,11 @@
-![Futuristic Banner ro](https://user-images.githubusercontent.com/86725419/179398750-a20e5fc3-f680-4c85-92f8-e7825ee0f7d9.png)
+<!---  ![Futuristic Banner ro](https://user-images.githubusercontent.com/86725419/179398750-a20e5fc3-f680-4c85-92f8-e7825ee0f7d9.png) --->
+
+![gitHero](https://github.com/HimanshuSharmax/HimanshuSharmax/assets/86725419/b6e4e3ea-521f-4dc3-958a-7bb3a4abb7c1)
+
 
 
 <h1 align="center">
- 
- <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=30&duration=3000&pause=1000&color=EBB502F7&center=true&random=false&width=435&lines=Hello+There!+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;I'm+Himanshu+Sharma!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=30&duration=3000&pause=1000&color=EBB50F7&center=true&random=false&width=435&lines=Hello+There!+%F0%9F%99%8B%F0%9F%8F%BB;I'm+Himanshu+Sharma!" alt="Typing SVG" />
 </h1>
 
 
