@@ -4,9 +4,10 @@
 
 
 
-<h1 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=30&duration=3000&pause=1000&color=EBB50F7&center=true&random=false&width=435&lines=Hello+There!+%F0%9F%99%8B%F0%9F%8F%BB;I'm+Himanshu+Sharma!" alt="Typing SVG" />
-</h1>
+ <h1 align="center">Hello There!🙋‍♂️
+  <br>
+I'm Himanshu Sharma
+ </h1>
 
 
 <h3 align="center">A Passionate Software Developer!<br>I am always ready to try and learn new things which will help me to improve my skills to move forward.
