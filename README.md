@@ -31,15 +31,19 @@ const Developer = {
 <h3 align="center">As a dedicated software developer, my passion lies in constant growth and exploration.<br>
 I embrace each opportunity to expand my skill set, always eager to learn and adapt. GitHub serves as an invaluable platform where I not only showcase my work but also collaborate with like-minded individuals, fostering innovation and collective advancement.
 </h3>
+
 <br>
 
 <div align="center">
 
 🔭 I hold a degree **Computer Science Engineering**, which is a significant achievement in my educational background.
 
-📫 How to reach me **ihimanshusharmax@gmail.com**
+📩 How to reach me **ihimanshusharmax@gmail.com**
+
+<h3> 🚀 Portfolio link <a href="https://himanshu-sharma-portfolio.netlify.app">here!</a> </h3>
 
 </div>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
