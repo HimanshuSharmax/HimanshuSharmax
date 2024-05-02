@@ -28,8 +28,8 @@ const Developer = {
 
 
 
-<h3 align="center">A Passionate Software Developer!<br>I am always ready to try and learn new things which will help me to improve my skills to move forward.
-<br>I am always looking to learn new things and expand my skill set, and GitHub is a great platform for me to showcase my work and collaborate with others.
+<h3 align="center">As a dedicated software developer, my passion lies in constant growth and exploration.<br>
+I embrace each opportunity to expand my skill set, always eager to learn and adapt. GitHub serves as an invaluable platform where I not only showcase my work but also collaborate with like-minded individuals, fostering innovation and collective advancement.
 </h3>
 <br>
 
@@ -61,9 +61,10 @@ const Developer = {
   </a>
 </p>
 
-<br>
-
-
+<be>
+ 
+<!---
 <p align="center">
 <img align="center" height="220" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshusharmax&show_icons=true&theme=highcontrast&title_color=07deed&hide_border=true&locale=en&layout=compact" alt="himanshusharmax" />
 </p>
+--->
