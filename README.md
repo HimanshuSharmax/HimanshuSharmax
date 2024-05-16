@@ -1,6 +1,3 @@
-
-<!---  ![Futuristic Banner ro](https://user-images.githubusercontent.com/86725419/179398750-a20e5fc3-f680-4c85-92f8-e7825ee0f7d9.png) --->
-
  <h1 align="center">Hello There!🙋‍♂️, I'm Himanshu Sharma
  </h1>
  
@@ -68,14 +65,10 @@ I embrace each opportunity to expand my skill set, always eager to learn and ada
 
 <be>
  
-<!---
-<p align="center">
-<img align="center" height="220" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshusharmax&show_icons=true&theme=highcontrast&title_color=07deed&hide_border=true&locale=en&layout=compact" alt="himanshusharmax" />
-</p>
---->
 
+<!---
 <p align="center">
     <img src="https://github.com/HimanshuSharmax/HimanshuSharmax/assets/86725419/e4ff86e6-9007-4604-a32e-90d95d613088" /><br>
 </p>
-
+--->
 
